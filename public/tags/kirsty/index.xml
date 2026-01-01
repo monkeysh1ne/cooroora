@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kirsty on Cooroora</title>
+    <link>http://localhost:35033/tags/kirsty/</link>
+    <description>Recent content in Kirsty on Cooroora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Darrell Mayson</copyright>
+    <lastBuildDate>Tue, 16 Dec 2025 09:31:31 +1000</lastBuildDate><atom:link href="http://localhost:35033/tags/kirsty/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Silverchain Audit Visit</title>
+      <link>http://localhost:35033/posts/silverchain-audit-call-silverchain/</link>
+      <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
+      
+      <guid>http://localhost:35033/posts/silverchain-audit-call-silverchain/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

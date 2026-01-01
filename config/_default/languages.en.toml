@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Cooroora - a living record of events and notes."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "A blog for Cooroora Rise"
+
+  [params.author]
+  name = "Darrell Mayson"
+  

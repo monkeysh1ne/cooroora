@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facebook on Cooroora</title>
+    <link>http://localhost:1313/tags/facebook/</link>
+    <description>Recent content in Facebook on Cooroora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Darrell Mayson</copyright>
+    <lastBuildDate>Sun, 21 Dec 2025 10:56:13 +1000</lastBuildDate><atom:link href="http://localhost:1313/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Facebook Christmas Wishes &amp; SCUH release</title>
+      <link>http://localhost:1313/posts/facebook-chrstmas-wishes-post-mum/</link>
+      <pubDate>Sun, 21 Dec 2025 10:56:13 +1000</pubDate>
+      
+      <guid>http://localhost:1313/posts/facebook-chrstmas-wishes-post-mum/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/facebook-chrstmas-wishes-post-mum/feature-christmas-card-generic.png" />
+    </item>
+    
+  </channel>
+</rss>
