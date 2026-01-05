@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phone on Cooroora</title>
-    <link>http://localhost:1313/tags/phone/</link>
-    <description>Recent content in Phone on Cooroora</description>
+    <title>Phone on Cooroora - a living record of events and notes.</title>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/phone/</link>
+    <description>Recent content in Phone on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Tue, 16 Dec 2025 09:31:31 +1000</lastBuildDate><atom:link href="http://localhost:1313/tags/phone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Dec 2025 09:31:31 +1000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/phone/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Silverchain Audit Visit</title>
-      <link>http://localhost:1313/posts/silverchain-audit-call-silverchain/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/silverchain-audit-call-silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Phone Call From Kendra Silverchain</title>
-      <link>http://localhost:1313/posts/phone-call-from-kendra-silverchain/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</link>
       <pubDate>Tue, 09 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/phone-call-from-kendra-silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</guid>
       <description></description>
       
     </item>

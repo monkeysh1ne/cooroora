@@ -1,4 +1,4 @@
-colorScheme = "forest"
+colorScheme = "autumn"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
@@ -24,7 +24,7 @@ advertisement = { }
 defaultBackgroundImage = "pexels-steve-1269968.jpg"
 
 [header]
-layout = "hero"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -35,13 +35,13 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 disableHeroImageFilter = false
 homepageImage = "pexels-steve-1269968.jpg"
 
@@ -64,12 +64,13 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = false
+showZenMode = true
+showRelatedContent = false
 
 [list]
 showHero = false
@@ -97,7 +98,7 @@ showHero = false
 showBreadcrumbs = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 cardView = false
 
 [term]

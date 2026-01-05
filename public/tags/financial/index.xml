@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Financial on Cooroora</title>
-    <link>http://localhost:1313/tags/financial/</link>
-    <description>Recent content in Financial on Cooroora</description>
+    <title>Financial on Cooroora - a living record of events and notes.</title>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/financial/</link>
+    <description>Recent content in Financial on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/financial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/financial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Aged care mum level up &amp; Anna from silverchain visit.</title>
-      <link>http://localhost:1313/posts/aged-care-mum-level-up/</link>
+      <title>Aged care mum level up &amp; Ana from Silverchain visit.</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/aged-care-mum-level-up/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
     </item>
     
     <item>
       <title>Silverchain Audit Visit</title>
-      <link>http://localhost:1313/posts/silverchain-audit-call-silverchain/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/silverchain-audit-call-silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
       <description></description>
       
     </item>

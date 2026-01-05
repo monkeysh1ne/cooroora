@@ -1,160 +1,190 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cooroora</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Cooroora</description>
+    <title>Tags on Cooroora - a living record of events and notes.</title>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/</link>
+    <description>Recent content in Tags on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Agedcare</title>
-      <link>http://localhost:1313/tags/agedcare/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Physio</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/physio/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/agedcare/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Financial</title>
-      <link>http://localhost:1313/tags/financial/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/financial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mum Sickness</title>
-      <link>http://localhost:1313/tags/mum-sickness/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/mum-sickness/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/physio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://localhost:1313/tags/post/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/post/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/post/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Silverchain</title>
-      <link>http://localhost:1313/tags/silverchain/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/silverchain/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/silverchain/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>MoW</title>
-      <link>http://localhost:1313/tags/mow/</link>
-      <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
+      <title>Retirement-Darrell</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/retirement-darrell/</link>
+      <pubDate>Sun, 04 Jan 2026 18:07:18 +1000</pubDate>
       
-      <guid>http://localhost:1313/tags/mow/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SCUH</title>
-      <link>http://localhost:1313/tags/scuh/</link>
-      <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/scuh/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ambulance Call</title>
-      <link>http://localhost:1313/tags/ambulance-call/</link>
-      <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ambulance-call/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bryson Sickness</title>
-      <link>http://localhost:1313/tags/bryson-sickness/</link>
-      <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/bryson-sickness/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>http://localhost:1313/tags/food/</link>
-      <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/food/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mechanical Beds</title>
-      <link>http://localhost:1313/tags/mechanical-beds/</link>
-      <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/mechanical-beds/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mobility Aids</title>
-      <link>http://localhost:1313/tags/mobility-aids/</link>
-      <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/mobility-aids/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Phone</title>
-      <link>http://localhost:1313/tags/phone/</link>
-      <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
-      
-      <guid>http://localhost:1313/tags/phone/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/retirement-darrell/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Scabies</title>
-      <link>http://localhost:1313/tags/scabies/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/scabies/</link>
+      <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/scabies/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smartsolutions</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/smartsolutions/</link>
+      <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/smartsolutions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agedcare</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/agedcare/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/agedcare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Financial</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/financial/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/financial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mum Sickness</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/mum-sickness/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/mum-sickness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MoW</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/mow/</link>
+      <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/mow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SCUH</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/scuh/</link>
+      <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/scuh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ambulance Call</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/ambulance-call/</link>
+      <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/ambulance-call/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bryson Sickness</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/bryson-sickness/</link>
+      <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/bryson-sickness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/food/</link>
+      <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/food/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mechanical Beds</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/mechanical-beds/</link>
+      <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/mechanical-beds/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mobility Aids</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/mobility-aids/</link>
+      <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/mobility-aids/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/phone/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/tags/scabies/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/phone/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nambour Hospital</title>
-      <link>http://localhost:1313/tags/nambour-hospital/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/tags/nambour-hospital/</link>
       <pubDate>Mon, 15 Dec 2025 08:40:42 +1000</pubDate>
       
-      <guid>http://localhost:1313/tags/nambour-hospital/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/tags/nambour-hospital/</guid>
       <description></description>
       
     </item>

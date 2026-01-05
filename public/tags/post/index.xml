@@ -1,110 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Cooroora</title>
-    <link>http://localhost:1313/tags/post/</link>
-    <description>Recent content in Post on Cooroora</description>
+    <title>Post on Cooroora - a living record of events and notes.</title>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/post/</link>
+    <description>Recent content in Post on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Aged care mum level up &amp; Anna from silverchain visit.</title>
-      <link>http://localhost:1313/posts/aged-care-mum-level-up/</link>
+      <title>Kirsty phone call to Darrell 05Jan26.</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Anna Physio Visit</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</link>
+      <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
+      
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aged care mum level up &amp; Ana from Silverchain visit.</title>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/aged-care-mum-level-up/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
     </item>
     
     <item>
       <title>Mum Disinfects Bed</title>
-      <link>http://localhost:1313/posts/mum-disinfects-bed/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mum-disinfects-bed/</link>
       <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/mum-disinfects-bed/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mum-disinfects-bed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mum-disinfects-bed/feature-disinfectant-spray-botle-750ml.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mum-disinfects-bed/feature-disinfectant-spray-botle-750ml.jpg" />
     </item>
     
     <item>
       <title>Mammas Got a New Bed</title>
-      <link>http://localhost:1313/posts/mammas-got-a-new-bed/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/</link>
       <pubDate>Mon, 22 Dec 2025 15:56:22 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/mammas-got-a-new-bed/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mammas-got-a-new-bed/feature-alivio-jannali-bed.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/feature-alivio-jannali-bed.png" />
     </item>
     
     <item>
       <title>Bryson Takes an Ambo Ride</title>
-      <link>http://localhost:1313/posts/bryson-takes-an-ambo-ride/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</link>
       <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/bryson-takes-an-ambo-ride/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bryson-takes-an-ambo-ride/feature-bunnings-pest-bomb.png" />
+      
     </item>
     
     <item>
       <title>Anchovy and Garlic Crostini</title>
-      <link>http://localhost:1313/posts/anchovy-and-garlic-crostini/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/anchovy-and-garlic-crostini/</link>
       <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/anchovy-and-garlic-crostini/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/anchovy-and-garlic-crostini/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/anchovy-and-garlic-crostini/feature-cantabrian-anchovies_sc.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/anchovy-and-garlic-crostini/feature-cantabrian-anchovies_sc.png" />
     </item>
     
     <item>
       <title>Mechanical Bed for Mum</title>
-      <link>http://localhost:1313/posts/mechanical-bed-for-mum/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mechanical-bed-for-mum/</link>
       <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/mechanical-bed-for-mum/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mechanical-bed-for-mum/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mechanical-bed-for-mum/feature=BedsElectric_ComfortLift1.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mechanical-bed-for-mum/feature=BedsElectric_ComfortLift1.png" />
     </item>
     
     <item>
       <title>Silverchain Audit Visit</title>
-      <link>http://localhost:1313/posts/silverchain-audit-call-silverchain/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/silverchain-audit-call-silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SCUH Appendicitis Post Operation Update</title>
-      <link>http://localhost:1313/posts/scuh-appendicitis-post-operation-update/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/scuh-appendicitis-post-operation-update/</link>
       <pubDate>Tue, 16 Dec 2025 06:22:51 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/scuh-appendicitis-post-operation-update/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/scuh-appendicitis-post-operation-update/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mum Sick Returns via Ambulance to Nambour Hospital</title>
-      <link>http://localhost:1313/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</link>
       <pubDate>Mon, 15 Dec 2025 08:40:42 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/feature-appendicitus-woman-grimacing.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/feature-appendicitus-woman-grimacing.png" />
     </item>
     
     <item>
       <title>Phone Call From Kendra Silverchain</title>
-      <link>http://localhost:1313/posts/phone-call-from-kendra-silverchain/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</link>
       <pubDate>Tue, 09 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/posts/phone-call-from-kendra-silverchain/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</guid>
       <description></description>
       
     </item>
