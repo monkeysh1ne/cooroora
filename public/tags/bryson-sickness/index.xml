@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryson Sickness on Cooroora - a living record of events and notes.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/bryson-sickness/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/bryson-sickness/</link>
     <description>Recent content in Bryson Sickness on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 05:34:57 +1000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/bryson-sickness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2025 05:34:57 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/bryson-sickness/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bryson Takes an Ambo Ride</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</link>
       <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</guid>
       <description></description>
       
     </item>

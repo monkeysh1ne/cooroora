@@ -7,7 +7,7 @@ tags: ['food', 'post']
 
 ### Following a YouTube recipe for Anchovy & Garlic Crostini
 
-![cantabrian anchovies tinned pic](gorgonzola-anchovy-crostini.png)
+![cantabrian anchovies tinned pic](gorgonzola-anchovy-crostini.png "Photo by unknown on [fishmasters](https://fishmasters.com/anchovy-recipes/)")
 
 [YouTube Recipe](https://www.youtube.com/watch?v=6bZEPEwjoL4)
 

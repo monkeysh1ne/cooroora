@@ -94,12 +94,12 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-cardView = false
+cardView = true
 
 [term]
 showHero = false
@@ -110,3 +110,4 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+

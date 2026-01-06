@@ -1,11 +1,11 @@
 ---
-title: Anna Physio Visit
+title: Ana Physio Visit
 date: 2026-01-02 16:19:00+1000
 draft: false
 tags: ['physio', 'post', 'Smartsolutions', 'scabies']
 ---
 
-Anna from Smart Solutions - Physiotherapy/OT/Speech etc.
+Ana from Smart Solutions - Physiotherapy/OT/Speech etc.
 (Contracted to Silverchain)
 
 Need to call Kendra Silverchain re agreement (see later in post).
@@ -18,10 +18,10 @@ Not having the same pain and inability to return to bed after midnight wake ups.
 
 Silverchain sending someone from 7Jan26 to do housework for 1.5hrs (per week? don't know where this intel came from so cannot verify).
 
-Anna had mum perform a number of exercises and took notes (stand up and sit several times, stay standing for 15secs…)
+Ana had mum perform a number of exercises and took notes (stand up and sit several times, stay standing for 15secs…)
 
 >
->  Anna will be attending once per week from now on.
+>  Ana will be attending once per week from now on.
 >
 
 Mum sais doing exercises using elastic band left by other physio (from Gympie?) - cannot verify.

@@ -23,7 +23,7 @@ Confirms mum is now Home Care Package Lvl 3, apx $42k
 
 The letter details that mum is now at Level 3 for Aged Care Home Care Package.  This information has been shared with mum's health care provider - Silverchain.
 
-## Ana from Silverchain is also visiting.
+## Ana from Silverchain is also visiting :woman_health_worker:.
 
 DateTime: Fri, 2nd Jan 2026 11:45.
 
@@ -36,7 +36,7 @@ This seems contrary to the whole point of having a provider there to help suppor
 
 Will be good to get Silverchain's side of the story.
 
->
+> [!NOTE]
 > This is [later confirmed]({{< relref "posts/kirsty-phone-darrell-05jan26.md" >}}) to be the case in my first phone conversation with Kirsty from Silverchain. The prescribed method is to have an OT visit then submit two quotes for the item to MAC and then, if approved, have the provider make the purchase using MAC available funds.   
 > 
 

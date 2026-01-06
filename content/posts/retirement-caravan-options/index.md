@@ -17,7 +17,7 @@ Some pre-requisites...
 ---
 #### CCT Venus 11m
 
-![CCT Venus 11mtr caravan pic external](CCT-Venus-11m-external.jpg)
-![CCT Venus 11mtr caravan pic internal 1](CCT-Venus11-2024-Int-01.jpg)
+![CCT Venus 11mtr caravan pic external](CCT-Venus-11m-external.jpg "Century Caravans and Trailers")
+![CCT Venus 11mtr caravan pic internal 1](CCT-Venus11-2024-Int-01.jpg "Century Caravans and Trailers")
 The [Venus 11ft Caravan](https://centurytrailers.com.au/product/venus11_caravan/) by CCT (Coopers Caravans) is the first off the rank.  Yesssss it still has the ChatGPT referal in the URL - call me lazy.  OK, at $AU 32,298 it's quite a bit over budget.  It **does** however tick all of the boxes for including AC, including all onroad costs, available withi 100km but does **not** come within the ATM limit of 1000kg (ATM 1500kg).
 
