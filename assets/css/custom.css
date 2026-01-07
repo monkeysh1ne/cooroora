@@ -2,3 +2,11 @@
   font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji,
     Segoe UI Symbol, Android Emoji, EmojiSymbols;
 }
+
+article {
+  background: rgba(255, 255, 255, 0);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 10px;
+}

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physio on Cooroora - a living record of events and notes.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/physio/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/physio/</link>
     <description>Recent content in Physio on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/physio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/physio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kirsty phone call to Darrell 05Jan26.</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ana Physio Visit</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/anna-physio-visit/</link>
       <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/anna-physio-visit/</guid>
       <description></description>
       
     </item>

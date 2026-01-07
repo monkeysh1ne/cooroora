@@ -14,6 +14,10 @@ Mum has raised and large dark bruise on right lower forearm.  Occurred in the la
 
 Break?  Spider bite?  Scorpion bite?  Snake bite? Seems, after some Googling, that most likely broken blood vessels under skin common in elderly. Perhaps a bump in the night mum forgot about or didn't even notice?
 
+>
+> [!NOTE] Turns out this is most likely just aged skin - blood vessels easily burst to cause bruising and the elderly body takes longer to heal these breakages.
+> 
+
 Not having the same pain and inability to return to bed after midnight wake ups.
 
 Silverchain sending someone from 7Jan26 to do housework for 1.5hrs (per week? don't know where this intel came from so cannot verify).

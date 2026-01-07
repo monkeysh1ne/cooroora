@@ -13,7 +13,7 @@ description = "A blog for Cooroora Rise"
 
   [params.author]
   name = "Darrell Mayson"
-  image = "me-headshot-blue.png"
+  image = "me-angry-cartoon.png"
   headline = "Blog owner, maintainer and fiddler."
   links = [
     { twitter = "https://twitter.com/monkeysh1ne"},

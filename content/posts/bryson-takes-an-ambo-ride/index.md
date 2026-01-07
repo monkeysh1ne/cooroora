@@ -7,7 +7,7 @@ tags = ['post', 'bryson sickness', 'ambulance call', 'mum sickness', 'SCUH']
 
 Bryson just called to say he is waiting on an ambulance.  He is in 'severe pain'.  We didn't go into details but he wanted to say that the key to the house is under the stereo out the back in the cabinet.  He will call as soon as he can with an update.
 
-Mum called shortly after.  Is having crushing abdmoinal pains which nurses and staff have said relates to trapped gas.  Nurse last night recommended she try and sleep on left side as that is the side the stomach is on and this will help push the gas out.  Mum did - and sharted.
+Mum called shortly after.  Is having crushing abdmoinal pains which nurses and staff have said relates to trapped gas.  Nurse last night recommended she try and sleep on left side as that is the side the stomach is on and this will help push the gas out.  Mum did - and sharted. :hankey:
 
 Mum cannot be released home if no-one is home.  I said I can't be there as place infested.  Mum said Bruce suggested, when he visited her recently, that they shoud bomb the place.  Use something available form Bunnings.  I suggested that even if mum (and Bryson if it comes to it) stay in respite care for the duration this was a **very** good idea.
 

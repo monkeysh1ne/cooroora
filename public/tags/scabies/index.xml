@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scabies on Cooroora - a living record of events and notes.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/scabies/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/scabies/</link>
     <description>Recent content in Scabies on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Fri, 02 Jan 2026 16:19:00 +1000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/scabies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jan 2026 16:19:00 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/scabies/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ana Physio Visit</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/anna-physio-visit/</link>
       <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/anna-physio-visit/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/anna-physio-visit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Silverchain Audit Visit</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
       <description></description>
       
     </item>
