@@ -20,7 +20,7 @@ Silverchain sending someone from 7Jan26 to do housework for 1.5hrs (per week? do
 
 Ana had mum perform a number of exercises and took notes (stand up and sit several times, stay standing for 15secs…)
 
->
+> [!TIP]+ Regular Physio Visits
 >  Ana will be attending once per week from now on.
 >
 

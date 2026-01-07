@@ -34,12 +34,12 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
-showRecent = true
+layout = "profile"
+showRecent = false
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
@@ -73,18 +73,18 @@ showZenMode = true
 showRelatedContent = false
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
 showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = true
 constrainItemsWidth = false
 heroStyle = "background"
