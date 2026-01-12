@@ -2,7 +2,7 @@
 date = '2025-12-22T15:56:22+10:00'
 draft = false
 title = 'Mammas Got a New Bed'
-tags = ['post', 'SCUH', 'mum sickness','MoW']
+tags = ['post', 'SCUH', 'mum sickness','MoW', "mechanical-bed"]
 +++
 
 ![jannali electric bed pic](feature-alivio-jannali-bed.png)

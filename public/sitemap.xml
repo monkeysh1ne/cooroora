@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/hugo/cooroora/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
+    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15,13 +27,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/</loc>
+    <lastmod>2026-01-04T18:07:18+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/retirement-caravan-options/</loc>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/retirement-caravan-options/</loc>
     <lastmod>2026-01-04T18:07:18+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -63,7 +75,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/</loc>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/</loc>
     <lastmod>2025-12-21T06:37:00+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

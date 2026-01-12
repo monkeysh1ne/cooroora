@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mum Arm Bruise &amp; Mechanical Bed Follow Up</title>
+      <link>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/featured-mum-arm-bruise.jpg" />
+    </item>
     
     <item>
       <title>Kirsty phone call to Darrell 05Jan26.</title>
@@ -17,16 +27,6 @@
       <guid>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>Retirement Caravan Options</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/retirement-caravan-options/</link>
-      <pubDate>Sun, 04 Jan 2026 18:07:18 +1000</pubDate>
-      
-      <guid>http://localhost:1313/hugo/cooroora/posts/retirement-caravan-options/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/retirement-caravan-options/featured-CCT-Venus-11m.jpg" />
     </item>
     
     <item>
@@ -90,23 +90,13 @@
     </item>
     
     <item>
-      <title>Anchovy and Garlic Crostini</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/</link>
-      <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
-      
-      <guid>http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/feature-cantabrian-anchovies_sc.png" />
-    </item>
-    
-    <item>
       <title>Mechanical Bed for Mum</title>
       <link>http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/</link>
       <pubDate>Sat, 20 Dec 2025 15:38:00 +1000</pubDate>
       
       <guid>http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/feature=BedsElectric_ComfortLift1.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/feature-BedsElectric_ComfortLift1.png" />
     </item>
     
     <item>

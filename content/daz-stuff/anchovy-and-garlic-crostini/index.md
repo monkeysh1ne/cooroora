@@ -12,6 +12,6 @@ tags: ['food', 'post']
 [YouTube Recipe](https://www.youtube.com/watch?v=6bZEPEwjoL4)
 
 >
-> Tried it with bog standard anchovies and rocked!  Can't wait to try with best-of anchovies =)
+> [!NOTE] Tried it with bog standard anchovies and rocked!  Can't wait to try with best-of anchovies =)
 >
 

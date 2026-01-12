@@ -9,5 +9,11 @@ pageRef = "tags"
 identifier = "vilQkYfmco"
 weight = 9_999
 
+[[main]]
+name = "Daz-Stuff"
+pageRef = "daz-stuff"
+identifier = "FeIJR88mSH"
+weight = 9_999
+
 [[footer]]
 none = "none"

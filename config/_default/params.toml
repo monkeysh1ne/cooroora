@@ -46,6 +46,7 @@ disableHeroImageFilter = false
 homepageImage = "pexels-steve-1269968.jpg"
 
 [article]
+showComments = true
 showDate = true
 showViews = false
 showLikes = false
@@ -110,4 +111,23 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+
+[comments]
+  enabled = true
+  provider = "giscus"
+
+  [comments.giscus]
+    repo = "monkeysh1ne/cooroora"
+    repoID = "R_kgDOQyLELA"
+    category = "Announcements"
+    categoryID = "DIC_kwDOQyLELM4C0stj"
+
+    mapping = "pathname"
+    strict = false
+    reactionsEnabled = true
+    emitMetadata = false
+    inputPosition = "top"
+
+    theme = "preferred_color_scheme"
+    lang = "en"
 

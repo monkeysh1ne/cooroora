@@ -4,6 +4,7 @@ date: 2025-12-31
 draft: false
 description: "Mum receives Aged Care letter confirming level up and a Silverchain rep is coming to visit."
 tags: ["post", "mum sickness", "financial", "Agedcare", "Silverchain"]
+comments: true
 ---
 
 ![Silverchain logo](featured-silverchain-logo.png)  ![Aussy aged care logo](australia-aged-care-logo.png)

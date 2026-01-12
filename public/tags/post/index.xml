@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mum Arm Bruise &amp; Mechanical Bed Follow Up</title>
+      <link>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/featured-mum-arm-bruise.jpg" />
+    </item>
     
     <item>
       <title>Kirsty phone call to Darrell 05Jan26.</title>
@@ -71,12 +81,12 @@
     
     <item>
       <title>Anchovy and Garlic Crostini</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/</link>
+      <link>http://localhost:1313/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/</link>
       <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/anchovy-and-garlic-crostini/feature-cantabrian-anchovies_sc.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/feature-cantabrian-anchovies_sc.png" />
     </item>
     
     <item>
@@ -86,7 +96,7 @@
       
       <guid>http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/feature=BedsElectric_ComfortLift1.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/feature-BedsElectric_ComfortLift1.png" />
     </item>
     
     <item>
