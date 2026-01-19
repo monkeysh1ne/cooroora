@@ -28,8 +28,12 @@ The [Venus 11ft Caravan](https://centurytrailers.com.au/product/venus11_caravan/
 
 ### NZ Made Teardrops
 
+#### Bubble Caravans - SoCute Teardrop
 
 ![BubbleCaravans So Cute model pic](bubble-caravans-so-cute-camper-teardrop.jpg "BubbleCaravans So Cute model")
+
+{{< carousel images="so-cute-teardrop-1.jpg,so-cute-teardrop-2.jpg,so-cute-teardrop-3.jpg,so-cute-teardrop-4.jpg,so-cute-teardrop-5.jpg,so-cute-teardrop-6.jpg,so-cute-teardrop-7.jpg,so-cute-teardrop-8.jpg,so-cute-teardrop-9.jpg}" >}}
+
 [bubble caravans so cute teardrop camper](https://bubblecaravans.co.nz/the-so-cute/)
 
 Have emailed manufacturers asking for quote and few other things.  If this little gem falls under $NZ30k then it will be a strong contender for NZ retirement.  Great price for included features[^1].  None of the BS Australian manufacturers get into about this and that is an optional extra (on top of high prices IMHO).  Looks gorgeous and is practical from what I can see for a solo traveller of advancing years. :older_man: Has a GVM of 1250.
@@ -37,6 +41,8 @@ Have emailed manufacturers asking for quote and few other things.  If this littl
 >
 > "None of the BS Australian manufacturers get into..."
 >
+
+Update: The retail price at 2026 for this model with all features is $65k.  Bugger!
 
 Quick glance at TradeMe had Mistsubishi Outlander 2010 Petrol 4x4 Auto at $4k.  Towing cap 2000kg.
 

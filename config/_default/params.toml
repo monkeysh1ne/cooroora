@@ -1,4 +1,4 @@
-colorScheme = "autumn"
+colorScheme = "one-light"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
@@ -22,6 +22,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 defaultBackgroundImage = "pexels-steve-1269968.jpg"
+
 
 [header]
 layout = "fixed-fill-blur"
@@ -121,13 +122,12 @@ cardViewScreenWidth = false
     repoID = "R_kgDOQyLELA"
     category = "Announcements"
     categoryID = "DIC_kwDOQyLELM4C0stj"
-
     mapping = "pathname"
     strict = false
     reactionsEnabled = true
     emitMetadata = false
     inputPosition = "top"
-
     theme = "preferred_color_scheme"
     lang = "en"
-
+    crossorigin="anonymous"
+ 

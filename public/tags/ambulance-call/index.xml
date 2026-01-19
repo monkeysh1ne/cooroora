@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ambulance Call on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:1313/hugo/cooroora/tags/ambulance-call/</link>
+    <link>http://localhost:35685/hugo/cooroora/tags/ambulance-call/</link>
     <description>Recent content in Ambulance Call on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 22 Dec 2025 05:34:57 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/ambulance-call/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2025 05:34:57 +1000</lastBuildDate><atom:link href="http://localhost:35685/hugo/cooroora/tags/ambulance-call/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bryson Takes an Ambo Ride</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</link>
       <pubDate>Mon, 22 Dec 2025 05:34:57 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mum Sick Returns via Ambulance to Nambour Hospital</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</link>
       <pubDate>Mon, 15 Dec 2025 08:40:42 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/feature-appendicitus-woman-grimacing.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35685/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/feature-appendicitus-woman-grimacing.png" />
     </item>
     
   </channel>

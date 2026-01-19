@@ -18,6 +18,9 @@ comments: true
 ![Lakeside contact details screenshot](lakeside-contact-deets.png)
 
 Purchase was made 22Dec25 at BIRTINYA branch Lakeside Mobility.
+>
+>[!NOTE] Called Lakeside Mobilty 12Jan26 - they will organise urgent delivery.
+>
 
 ### What's going on with this bruise on mum's forearm?
 

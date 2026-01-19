@@ -3,109 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/</loc>
+    <lastmod>2026-01-17T07:32:39+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mum-morphine-vomit/</loc>
+    <lastmod>2026-01-17T07:32:39+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:35685/hugo/cooroora/posts/</loc>
+    <lastmod>2026-01-17T07:32:39+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:35685/hugo/cooroora/posts/community-nurse/</loc>
+    <lastmod>2026-01-12T16:01:40+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mum-arm-bruise/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/daz-stuff/</loc>
     <lastmod>2026-01-04T18:07:18+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/retirement-caravan-options/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/daz-stuff/retirement-caravan-options/</loc>
     <lastmod>2026-01-04T18:07:18+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/anna-physio-visit/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/anna-physio-visit/</loc>
     <lastmod>2026-01-02T16:19:00+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/aged-care-mum-level-up/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/aged-care-mum-level-up/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/mum-disinfects-bed/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mum-disinfects-bed/</loc>
     <lastmod>2025-12-25T14:41:04+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/mammas-got-a-new-bed/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mammas-got-a-new-bed/</loc>
     <lastmod>2025-12-22T15:56:22+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/bryson-takes-an-ambo-ride/</loc>
     <lastmod>2025-12-22T05:34:57+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/facebook-christmas-wishes-post-mum/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/facebook-christmas-wishes-post-mum/</loc>
     <lastmod>2025-12-21T10:56:13+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/daz-stuff/anchovy-and-garlic-crostini/</loc>
     <lastmod>2025-12-21T06:37:00+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/mechanical-bed-for-mum/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mechanical-bed-for-mum/</loc>
     <lastmod>2025-12-20T15:38:00+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/silverchain-audit-call-silverchain/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/silverchain-audit-call-silverchain/</loc>
     <lastmod>2025-12-16T09:31:31+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/scuh-appendicitis-post-operation-update/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/scuh-appendicitis-post-operation-update/</loc>
     <lastmod>2025-12-16T06:22:51+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/mum-sick-returns-via-ambulance-to-nambour-hospital/</loc>
     <lastmod>2025-12-15T08:40:42+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</loc>
+    <loc>http://localhost:35685/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</loc>
     <lastmod>2025-12-09T09:31:31+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

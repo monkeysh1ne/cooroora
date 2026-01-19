@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silverchain on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:1313/hugo/cooroora/tags/silverchain/</link>
+    <link>http://localhost:35685/hugo/cooroora/tags/silverchain/</link>
     <description>Recent content in Silverchain on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/silverchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35685/hugo/cooroora/tags/silverchain/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kirsty phone call to Darrell 05Jan26.</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Aged care mum level up &amp; Ana from Silverchain visit.</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/aged-care-mum-level-up/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/aged-care-mum-level-up/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/aged-care-mum-level-up/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/aged-care-mum-level-up/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35685/hugo/cooroora/posts/aged-care-mum-level-up/featured-silverchain-logo.png" />
     </item>
     
     <item>
       <title>Silverchain Audit Visit</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/silverchain-audit-call-silverchain/</link>
       <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/silverchain-audit-call-silverchain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Phone Call From Kendra Silverchain</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</link>
+      <link>http://localhost:35685/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</link>
       <pubDate>Tue, 09 Dec 2025 09:31:31 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</guid>
+      <guid>http://localhost:35685/hugo/cooroora/posts/phone-call-from-kendra-silverchain/</guid>
       <description></description>
       
     </item>
