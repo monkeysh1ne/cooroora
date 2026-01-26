@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nambour Community Health on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:1313/hugo/cooroora/tags/nambour-community-health/</link>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/nambour-community-health/</link>
     <description>Recent content in Nambour Community Health on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Tue, 20 Jan 2026 16:57:22 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/nambour-community-health/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jan 2026 16:57:22 +1000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/nambour-community-health/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nambour Community Health &amp; Kirsty Catchup</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/nambour-community-health/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/nambour-community-health/</link>
       <pubDate>Tue, 20 Jan 2026 16:57:22 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/nambour-community-health/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/nambour-community-health/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/nambour-community-health/featured.png" />
+      
     </item>
     
   </channel>

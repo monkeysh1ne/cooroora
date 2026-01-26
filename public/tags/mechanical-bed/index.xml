@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mechanical-Bed on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:1313/hugo/cooroora/tags/mechanical-bed/</link>
+    <link>https://mahiequalslollies.com/hugo/cooroora/tags/mechanical-bed/</link>
     <description>Recent content in Mechanical-Bed on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/mechanical-bed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/mechanical-bed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mum Arm Bruise &amp; Mechanical Bed Follow Up</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mum-arm-bruise/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mum-arm-bruise/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mum-arm-bruise/featured-mum-arm-bruise.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mum-arm-bruise/featured-mum-arm-bruise.jpg" />
     </item>
     
     <item>
       <title>Mammas Got a New Bed</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/mammas-got-a-new-bed/</link>
+      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/</link>
       <pubDate>Mon, 22 Dec 2025 15:56:22 +1000</pubDate>
       
-      <guid>http://localhost:1313/hugo/cooroora/posts/mammas-got-a-new-bed/</guid>
+      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/mammas-got-a-new-bed/feature-alivio-jannali-bed.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mahiequalslollies.com/hugo/cooroora/posts/mammas-got-a-new-bed/feature-alivio-jannali-bed.png" />
     </item>
     
   </channel>
