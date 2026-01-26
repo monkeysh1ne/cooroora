@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:35685/hugo/cooroora/categories/</link>
+    <link>http://localhost:1313/hugo/cooroora/categories/</link>
     <description>Recent content in Categories on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <atom:link href="http://localhost:35685/hugo/cooroora/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo/cooroora/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

@@ -1,8 +1,9 @@
 ---
 date: '2026-01-19T13:45:37+10:00'
 draft: false
-title: '19jan26'
+title: '19Jan26'
 tags: ['post', 'kirsten', 'scabies']
+comments: true
 ---
 
 Spoke with mum on the phone today.  Has yet to start using new mechanical bed for fear she still has scabies.  I suggested that given the amount of pills and lotions she has applied I had a positive feeling that she was fast approaching being clear.  All that will then be needed is for Desh to issue required letter.  This will be a great releif to mum as she has said (and I have felt) she is feeling very weary from all theat has happened lately especially with the scabies.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kirsten on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:35685/hugo/cooroora/tags/kirsten/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/kirsten/</link>
     <description>Recent content in Kirsten on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 19 Jan 2026 13:45:37 +1000</lastBuildDate><atom:link href="http://localhost:35685/hugo/cooroora/tags/kirsten/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 13:45:37 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/kirsten/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>19jan26</title>
-      <link>http://localhost:35685/hugo/cooroora/posts/19jan26/</link>
+      <title>19Jan26</title>
+      <link>http://localhost:1313/hugo/cooroora/posts/19jan26/</link>
       <pubDate>Mon, 19 Jan 2026 13:45:37 +1000</pubDate>
       
-      <guid>http://localhost:35685/hugo/cooroora/posts/19jan26/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/19jan26/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:35685/hugo/cooroora/posts/19jan26/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/posts/19jan26/featured.png" />
     </item>
     
   </channel>

@@ -22,3 +22,8 @@ A 'young man' arrived this morning (17Jan26) to perform the deep clean of carpet
 >
 > She said he was of school age which is a little alarming!
 >
+
+## Final Electrodry Invoice
+
+The following is the final invoice from Electrodry.  Last minute added 2 x chairs on front porch I was unaware of before I emailed Electrodry to explain ~$100 discrepency.  Mum and Bryson both seem happy with the results.  Now we just need Desh to provide letter confirming mym is scabies free.
+![Electrodry Final Invoice](electrodry-invoice-17Jan26.png "Electrodry Final Invoice")

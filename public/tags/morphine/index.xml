@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morphine on Cooroora - a living record of events and notes.</title>
-    <link>http://localhost:35685/hugo/cooroora/tags/morphine/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/morphine/</link>
     <description>Recent content in Morphine on Cooroora - a living record of events and notes.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Sat, 17 Jan 2026 07:32:39 +1000</lastBuildDate><atom:link href="http://localhost:35685/hugo/cooroora/tags/morphine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 07:32:39 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/morphine/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mum Morphine Vomit &amp; Electrodry Visit</title>
-      <link>http://localhost:35685/hugo/cooroora/posts/mum-morphine-vomit/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/mum-morphine-vomit/</link>
       <pubDate>Sat, 17 Jan 2026 07:32:39 +1000</pubDate>
       
-      <guid>http://localhost:35685/hugo/cooroora/posts/mum-morphine-vomit/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/mum-morphine-vomit/</guid>
       <description></description>
       
     </item>
