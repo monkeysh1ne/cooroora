@@ -89,7 +89,7 @@ groupByYear = true
 cardView = true
 cardViewScreenWidth = true
 constrainItemsWidth = false
-heroStyle = "background"
+heroStyle = "thumbAndBackground"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]

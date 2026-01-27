@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Electrodry on Cooroora - a living record of events and notes.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/electrodry/</link>
-    <description>Recent content in Electrodry on Cooroora - a living record of events and notes.</description>
+    <title>Electrodry on Cooroora - whats happening.</title>
+    <link>http://localhost:1313/hugo/cooroora/tags/electrodry/</link>
+    <description>Recent content in Electrodry on Cooroora - whats happening.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 16:01:40 +1000</lastBuildDate><atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/electrodry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jan 2026 16:01:40 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/tags/electrodry/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Community Nurse and Cooroora Deep Clean</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/community-nurse/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/community-nurse/</link>
       <pubDate>Mon, 12 Jan 2026 16:01:40 +1000</pubDate>
       
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/community-nurse/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/community-nurse/</guid>
       <description></description>
       
     </item>

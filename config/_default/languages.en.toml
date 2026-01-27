@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Cooroora - a living record of events and notes."
+title = "Cooroora - whats happening."
 
 [params]
 displayName = "EN"
