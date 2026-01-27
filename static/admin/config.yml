@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "static/images"
+public_folder: "/images"
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
+backend:
+  name: git-gateway
+  branch: master
+  repo: monkeysh1ne/cooroora
+  site_domain: https://gleeful-medovik-0556fe.netlify.app/
+  auth:
+    provider: auth0
+    client_id: ${mjmSzCNfg6COUcPUqN4dv0smxQjl7i2z}
+    domain: ${dev-ptaqyv8lg6i1vkaf.us.auth0.com}
+    audience: ${AUTH0_AUDIENCE}   
