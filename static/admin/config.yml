@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: master
   repo: monkeysh1ne/cooroora
   site_domain: https://gleeful-medovik-0556fe.netlify.app/
   auth:
