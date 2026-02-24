@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Darrell Mayson</copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 15:26:48 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Feb 2026 05:22:26 +1000</lastBuildDate><atom:link href="http://localhost:1313/hugo/cooroora/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ryan Gee Visit</title>
+      <link>http://localhost:1313/hugo/cooroora/posts/ryan-gee-visit/</link>
+      <pubDate>Tue, 24 Feb 2026 05:22:26 +1000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/cooroora/posts/ryan-gee-visit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Silverchain Service Agreement</title>
+      <link>http://localhost:1313/hugo/cooroora/posts/silverchain-service-agreement/</link>
+      <pubDate>Fri, 30 Jan 2026 05:59:09 +1000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/cooroora/posts/silverchain-service-agreement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Random Stuff</title>
+      <link>http://localhost:1313/hugo/cooroora/daz-stuff/random-stuff/</link>
+      <pubDate>Thu, 29 Jan 2026 14:17:58 +1000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/cooroora/daz-stuff/random-stuff/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hugo/cooroora/daz-stuff/random-stuff/featured.png" />
+    </item>
     
     <item>
       <title>Carpet Bed Spray</title>

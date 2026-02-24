@@ -4,13 +4,37 @@
 
   <url>
     <loc>http://localhost:1313/hugo/cooroora/</loc>
-    <lastmod>2026-01-21T15:26:48+10:00</lastmod>
+    <lastmod>2026-02-24T05:22:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
+    <lastmod>2026-02-24T05:22:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/ryan-gee-visit/</loc>
+    <lastmod>2026-02-24T05:22:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/silverchain-service-agreement/</loc>
+    <lastmod>2026-01-30T05:59:09+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/hugo/cooroora/daz-stuff/</loc>
-    <lastmod>2026-01-21T15:26:48+10:00</lastmod>
+    <lastmod>2026-01-29T14:17:58+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/random-stuff/</loc>
+    <lastmod>2026-01-29T14:17:58+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -22,12 +46,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/hugo/cooroora/posts/nambour-community-health/</loc>
-    <lastmod>2026-01-20T16:57:22+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
     <lastmod>2026-01-20T16:57:22+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
