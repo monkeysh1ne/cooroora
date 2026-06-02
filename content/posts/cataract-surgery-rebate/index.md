@@ -1,9 +1,9 @@
----
-date: '2026-06-02T16:010:40+10:00'
-draft: false
-title: 'Cataract Surgery Mum'
-tags: ['post', 'noosa-hospital', 'cataracts']
----
++++
+date = '2026-06-02T15:56:22+10:00'
+draft = false
+title = 'Cataract Surgery Rebate - Mum'
+tags = ['post', 'noosa-hospital', 'cataracts']
++++
 
 ### Medicare rebate from 2 x cataract removal surgeries
 
