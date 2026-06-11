@@ -8,5 +8,5 @@ tags: ['post', 'care-provider', 'envigor', 'silverchain']
 Mark visited mum and BJ this morning to discuss current setup with Silverchain and current needs.  All with a view to better addressing needs with new provider.
 
 I spoke breifly with Mark over the phone and emailed him the latest Activity Statement from SC along with confirmation of care package increasing to Level 3.
-[home package level up] ( {{< relref "/posts/aged-care-mum-level-up/" >}} )
+[home package level up] ({{% relref "/posts/aged-care-mum-level-up" %}})
 
