@@ -21,8 +21,9 @@ Asked Mark to stay in touch with mum & I.
 
 Spoke with mum after call and we agree there does not appear to be much difference between what Envigor is offering and what SC currently offers - they are both subject to the same government rules and there does not appear to be a clear benefit in moving to the new outfit.  We'll hear them out anyway and make an informed decision.
 
-[!NOTE] Asked Mark to put together an **easily consumed** folder with material utlining onboarding and how his organisation manages it's clients
-
+>
+> [!NOTE] Asked Mark to put together an **easily consumed** folder with material utlining onboarding and how his organisation manages it's clients
+>
 
 
 
