@@ -5,6 +5,8 @@ draft: false
 tags: ['post', 'care-provider', 'envigor', 'silverchain']
 ---
 
+![Envigor Logo](content/posts/mark-envigor-introduction/envigor_logo.png)
+
 ## 11Jun
 
 Mark visited mum and BJ this morning to discuss current setup with Silverchain and current needs.  All with a view to better addressing needs with new provider.
