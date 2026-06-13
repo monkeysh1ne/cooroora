@@ -5,7 +5,7 @@ draft: false
 tags: ['post', 'care-provider', 'envigor', 'silverchain']
 ---
 
-![Envigor Logo](content/posts/mark-envigor-introduction/envigor_logo.png)
+![Envigor Logo](envigor_logo.png)
 
 ## 11Jun
 
