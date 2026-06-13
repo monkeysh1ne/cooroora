@@ -25,5 +25,9 @@ Spoke with mum after call and we agree there does not appear to be much differen
 > [!NOTE] Asked Mark to put together an **easily consumed** folder with material utlining onboarding and how his organisation manages it's clients
 >
 
+## 14Jun
+
+Have looked over the Envigor website and can see no notable difference in approach to Silverchain.
+One page that stood out as potentially useful was the one title ['Understanding the Support at Home Program: Your simple guide'](https://envigor.com.au/blog/understanding-support-at-home/)
 
 

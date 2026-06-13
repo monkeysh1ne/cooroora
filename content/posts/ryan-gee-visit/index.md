@@ -46,7 +46,7 @@ Discussion of Home Care Provider.  Ryan offered his experience much of a muchnes
 Ryan thinks new system is encouraging care providers to abuse system.
 All care providers very similar in how they do things.
 Pill under tongue while in hospital had Opium in it.  Good for pain relief but on returning home had remainder of these pills along with other usual meds.
-Aged Car person was there while mum was having visual hallucinating and called ambos seeing what was going on.
+Aged Care person was there while mum was having visual hallucinating and called ambos seeing what was going on.
 Remaining pills taken to chemist for disposal.
 Eat lot of fruit including pears, prunes, blueberries as well as Metamucil.  Every morning.
 Any bladder issues - is just starting to use pads.  Up once a night. When urge comes, must go straight away.
