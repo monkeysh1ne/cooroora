@@ -13,4 +13,10 @@ After 3 months return visit to Dr.Tan to assess progress/improvement ($90).
 
 Attached fee estimates.  Payments billed weekly dependent on visits that week.
 
-![Icon Cancer Ctr Fees Estimate](IconFeesEstimates.jpg)
+
+{{< figure 
+ src='IconFeesEstimates.jpg'
+ alt='Icon Centre Fees Estimates'
+ caption='Icon Cancer Centre Fees Estimates'
+ class='ma0 w-75'
+>}}
