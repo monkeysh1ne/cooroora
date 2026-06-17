@@ -10,7 +10,7 @@ tags: ['post', 'how-to']
 1. Updates/changes etc made to website locally.
 2. Changes committed to GIT and remote repo updated with these.
 3. [Netlify](https://app.netlify.com/projects/joyful-pie-3d4dfb/overview) rebuilds website using atest GIT commit.
-4.  
+  
 {{< mermaid >}}
 graph LR;
 A[Local Changes]-->B[Git Commit to Local]
