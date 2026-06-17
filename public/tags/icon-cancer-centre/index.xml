@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icon Cancer Centre on Cooroora - whats happening.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/icon-cancer-centre/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/icon-cancer-centre/</link>
     <description>Recent content in Icon Cancer Centre on Cooroora - whats happening.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jun 2026 15:10:03 +1000</lastBuildDate>
-    <atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/icon-cancer-centre/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo/cooroora/tags/icon-cancer-centre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Icon Cancer Centre Initial Visit &amp; Plan</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/icon-initial-visit-and-plan/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/icon-initial-visit-and-plan/</link>
       <pubDate>Mon, 15 Jun 2026 15:10:03 +1000</pubDate>
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/icon-initial-visit-and-plan/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/icon-initial-visit-and-plan/</guid>
       <description></description>
     </item>
     <item>
       <title>Icon Cancer Centre Referral</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/icon-cancer-centre-referral/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/icon-cancer-centre-referral/</link>
       <pubDate>Mon, 15 Jun 2026 05:30:03 +1000</pubDate>
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/icon-cancer-centre-referral/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/icon-cancer-centre-referral/</guid>
       <description></description>
     </item>
   </channel>
