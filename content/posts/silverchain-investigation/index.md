@@ -7,4 +7,4 @@ tags: ['post', 'silverchain']
 
 Looking into what appear to be anomolous charges for Podiatry on the Silverchain monthly statement for Apr26.  Also looking at Silverchain monthly statements to try and gain understanding of them.  Second goal may be a fail 'cause I cannot see the sense in them.
 
-{{< embed-pdf url="/files/dec25.pdf" >}}
+{{< embed-pdf url="/content/posts/silverchain-investigation/files/dec25.pdf" >}}
