@@ -1,7 +1,7 @@
 ---
 date: '2026-06-17T19:20:03+10:00'
 draft: false
-title: 'Silverchaininvestigate'
+title: 'Silverchain Investigate'
 tags: ['post', 'silverchain']
 ---
 
