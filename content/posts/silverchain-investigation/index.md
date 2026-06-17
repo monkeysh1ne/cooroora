@@ -17,8 +17,8 @@ Looking into what appear to be anomolous charges for Podiatry on the Silverchain
   - In section 'Budget 1: Home Support Ongoing Budget' Care Management shows $629.10 at Apr26.
 - At 18Jun26 I emailed info@silverchain.org.au requesting a copy of thier advisory: 'How to read your Monthly Activity Statement'.  Shortly after this an automated reply was received directing me to either call Silverchain or fill out a web enquiry form. 😤
 
-> **Warning**
-There appears to be an unecessary complexity to SC's monthly statements.  My theory is that this is to assist them in confounding their clients to such a degree as they give up on any attempt to understand them.  This, to enable SC to cloud the fees they are charging for their services.
+> [!WARNING]
+> There appears to be an unecessary complexity to SC's monthly statements.  My theory is that this is to assist them in confounding their clients to such a degree as they give up on any attempt to understand them.  This, to enable SC to cloud the fees they are charging for their services.
 
 
 The following PDFs have not embedded corrrectly but the links work.  You just have to figure which files you're being taken to when clicking!
