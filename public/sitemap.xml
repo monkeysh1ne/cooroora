@@ -3,31 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/</loc>
-    <lastmod>2026-06-17T19:20:03+10:00</lastmod>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/envigor/</loc>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/post/</loc>
-    <lastmod>2026-06-17T19:20:03+10:00</lastmod>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/posts/</loc>
-    <lastmod>2026-06-17T19:20:03+10:00</lastmod>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/silverchain/</loc>
-    <lastmod>2026-06-17T19:20:03+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-investigation/</loc>
-    <lastmod>2026-06-17T19:20:03+10:00</lastmod>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/</loc>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/posts/xfer-to-envigor/</loc>
+    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/posts/silverchain-investigation/</loc>
     <lastmod>2026-06-17T19:20:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -73,11 +83,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/care-provider/</loc>
-    <lastmod>2026-06-11T13:41:24+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/envigor/</loc>
     <lastmod>2026-06-11T13:41:24+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

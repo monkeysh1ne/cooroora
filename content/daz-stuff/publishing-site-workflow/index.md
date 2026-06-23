@@ -3,6 +3,7 @@ date: '2026-06-16T06:12:48+10:00'
 draft: false
 title: 'Publishing Website Workflow'
 tags: ['post', 'how-to']
+mermaid: true
 ---
 
 ## How this website is published (workflow)

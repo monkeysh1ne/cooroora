@@ -23,7 +23,6 @@ Looking into what appear to be anomolous charges for Podiatry on the Silverchain
 
 The following PDFs have not embedded corrrectly but the links work.  You just have to figure which files you're being taken to when clicking!
 
-{{< embed-pdf url="./files/dec25.pdf" >}}
 {{< embed-pdf url="./files/jan26_1of2.pdf" >}}
 {{< embed-pdf url="./files/jan26_2of2.pdf" >}}
 {{< embed-pdf url="./files/feb26_1of2.pdf" >}}
