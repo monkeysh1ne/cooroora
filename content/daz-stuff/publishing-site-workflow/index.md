@@ -20,3 +20,13 @@ C-->D[Netlify Build]
 {{< /mermaid >}}
 
 
+## Embedding PDFs
+
+{{< mermaid >}}
+graph LR;
+A[place PDF in /static/files]-->B[use embed-pdf shortcode in post to place pdf embed]
+{{< /mermaid >}}
+
+
+
+
