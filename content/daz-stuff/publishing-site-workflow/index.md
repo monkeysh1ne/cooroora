@@ -19,17 +19,4 @@ B-->C[Git Commit to Remote]
 C-->D[Netlify Build]
 {{< /mermaid >}}
 
-### Handling PDF docs
 
-1. Place pdf doc(s) in '/static/files' dir.
-2. Create post(s).
-3. In relevant posts insert following:
-4. ```{{< embed-pdf url=/files[name of pdf incl ext] >}}```
-5. e.g.,
-6. ```{{< embed-pdf url=/files/bank-stmt-1.pdf >}}```
-
-{{< mermaid >}}
-graph LR;
-A[place PDF files in /static/files dir]-->B[write following in post: ```{{< embed-pdf url=/files[name of pdf incl ext] >}}```]
-B-->C[publish post]
-{{< /mermaid >}}
