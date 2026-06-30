@@ -3,31 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/</loc>
-    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/agreement/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/envigor/</loc>
-    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/post/</loc>
-    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/posts/</loc>
-    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/silverchain/</loc>
-    <lastmod>2026-06-23T11:01:03+10:00</lastmod>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/silverchair/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mahiequalslollies.com/hugo/cooroora/tags/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/posts/terminating-silverchair-signing-envigor/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mahiequalslollies.com/hugo/cooroora/tags/silverchain/</loc>
     <lastmod>2026-06-23T11:01:03+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -21,8 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "kiwis.png"
-
+defaultBackgroundImage = "kellen-riggin-ZHnTWmiz000-unsplash.jpg"
 
 [header]
 layout = "fixed-fill-blur"
@@ -114,20 +113,19 @@ cardView = false
 cardViewScreenWidth = false
 
 [comments]
-  enabled = true
-  provider = "giscus"
+enabled = true
+provider = "giscus"
 
   [comments.giscus]
-    repo = "monkeysh1ne/cooroora"
-    repoID = "R_kgDOQyLELA"
-    category = "Announcements"
-    categoryID = "DIC_kwDOQyLELM4C0stj"
-    mapping = "pathname"
-    strict = false
-    reactionsEnabled = true
-    emitMetadata = false
-    inputPosition = "top"
-    theme = "preferred_color_scheme"
-    lang = "en"
-    crossorigin="anonymous"
- 
+  repo = "monkeysh1ne/cooroora"
+  repoID = "R_kgDOQyLELA"
+  category = "Announcements"
+  categoryID = "DIC_kwDOQyLELM4C0stj"
+  mapping = "pathname"
+  strict = false
+  reactionsEnabled = true
+  emitMetadata = false
+  inputPosition = "top"
+  theme = "preferred_color_scheme"
+  lang = "en"
+  crossorigin = "anonymous"

@@ -7,22 +7,16 @@ tags: ["post", "mum sickness", "financial", "Agedcare", "Silverchain"]
 comments: true
 ---
 
-![Silverchain logo](featured-silverchain-logo.png)  ![Aussy aged care logo](australia-aged-care-logo.png)
-
 ## Letter from Aged Care dated 9Dec25
-
-[Page 1 letter Aged Care 091225](1.jpg)
-
-[Page 2 letter Aged Care 091225](2.jpg)
-
-[Page 3 letter Aged Care 091225](3.jpg)
-
-[Page 4 letter Aged Care 091225](4.jpg)
 
 Confirms mum is now Home Care Package Lvl 3, apx $42k
 (apx $25k or 60% approved for provider services immediately)
 
 The letter details that mum is now at Level 3 for Aged Care Home Care Package.  This information has been shared with mum's health care provider - Silverchain.
+
+![MyAgedCare-TransitionLvl3-Letter-Mum-1of3](MyAgedCare-TransitionLvl3-Letter-Mum-1of3.png)
+![MyAgedCare-TransitionLvl3-Letter-Mum-2of3](MyAgedCare-TransitionLvl3-Letter-Mum-2of3.png)
+![MyAgedCare-TransitionLvl3-Letter-Mum-3of3](MyAgedCare-TransitionLvl3-Letter-Mum-3of3.png)
 
 ## Ana from Silverchain is also visiting :woman_health_worker:.
 
