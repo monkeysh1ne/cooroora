@@ -20,3 +20,5 @@ Checking the Silverchain Support at Home Service Agreement
       height="800"
       title="Silverchair Support at Home Service Agreement"
 </iframe>
+
+{{< embed-pdf url="./files/<"Silverchain - Support at Home Service Agreement - Shirley Moran ( C-305706 )_completed_TERMINATION.pdf"> >}}[Silverchain - Support at Home Service Agreement]
