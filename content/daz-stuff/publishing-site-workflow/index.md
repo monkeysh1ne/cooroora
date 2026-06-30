@@ -26,7 +26,7 @@ C-->D[Netlify Build]
 3. In relevant posts insert following: {{< embed-pdf url="/files[name of pdf incl ext]" >}} e.g., {{< embed-pdf url="/files/bank-stmt-1.pdf" >}}
 
 {{< mermaid >}}
-graph LR
+graph LR;
 A[place PDF files in '/static/files' dir]-->B[write following in post: {{< embed-pdf url="/files[name of pdf incl ext]" >}}]
 B-->C[publish post]
 {{< /mermaid >}}
