@@ -35,8 +35,9 @@ Kirsty explained (apologetically) that for a purchase like this to happen it nee
 
 ### Attachments
 
-[Physio Report 02Jan26](/physio-report-mum-02jan26.pdf)
+{{< embed-pdf url="/files/Gmail---FW_Shirley-Moran-Initial-Report_05-Jan26.pdf" >}}
 
-[Physio Kirsty Email](/Gmail---FW_Shirley-Moran-Initial-Report_05-Jan26.pdf)
+{{< embed-pdf url="/files/physio-report-mum-02jan26.pdf" >}}
+
 
 

@@ -38,4 +38,3 @@ Bed reimbursement may not be possible but Kendra will take up with Kirsten.  It 
 
 There appears to be a pattern of avoidance so far from Silverchain to do anything but gatekeep the AgedCare money.  Worth monitoring going forward.
 
-{{< embed-pdf url="/files/Gmail---FW_Shirley-Moran-Initial-Report_05-Jan26.pdf" >}}
