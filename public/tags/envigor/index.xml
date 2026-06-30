@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Envigor on Cooroora - whats happening.</title>
-    <link>https://mahiequalslollies.com/hugo/cooroora/tags/envigor/</link>
+    <link>http://localhost:1313/hugo/cooroora/tags/envigor/</link>
     <description>Recent content in Envigor on Cooroora - whats happening.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mahiequalslollies.com/hugo/cooroora/tags/envigor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo/cooroora/tags/envigor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminating Silverchair Signing Envigor</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/terminating-silverchair-signing-envigor/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/terminating-silverchair-signing-envigor/</link>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/terminating-silverchair-signing-envigor/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/terminating-silverchair-signing-envigor/</guid>
       <description></description>
     </item>
     <item>
       <title>Xfer to Envigor</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/xfer-to-envigor/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/xfer-to-envigor/</link>
       <pubDate>Tue, 23 Jun 2026 11:01:03 +1000</pubDate>
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/xfer-to-envigor/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/xfer-to-envigor/</guid>
       <description></description>
     </item>
     <item>
       <title>Mark Envigor Introduction</title>
-      <link>https://mahiequalslollies.com/hugo/cooroora/posts/mark-envigor-introduction/</link>
+      <link>http://localhost:1313/hugo/cooroora/posts/mark-envigor-introduction/</link>
       <pubDate>Thu, 11 Jun 2026 13:41:24 +1000</pubDate>
-      <guid>https://mahiequalslollies.com/hugo/cooroora/posts/mark-envigor-introduction/</guid>
+      <guid>http://localhost:1313/hugo/cooroora/posts/mark-envigor-introduction/</guid>
       <description></description>
     </item>
   </channel>
