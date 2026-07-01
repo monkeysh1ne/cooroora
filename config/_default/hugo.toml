@@ -3,6 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
+#theme = "hugo-coder"
 baseURL = "https://mahiequalslollies.com/hugo/cooroora/"
 defaultContentLanguage = "en"
 
@@ -68,3 +69,9 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  colorScheme = "auto"
+  hidecolorschemetoggle = false

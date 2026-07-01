@@ -1,5 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = ["hugo-embed-pdf-shortcode", "blowfish"]
+baseURL = 'https://mahiequalslollies.com/cooroora/'
+languageCode = 'en'
+defaultcontentlanguage = "en"
+title = 'Cooroora Blog'
+theme = ["hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
