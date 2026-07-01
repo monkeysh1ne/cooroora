@@ -3,37 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/hugo/cooroora/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/tags/agreement/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/</loc>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/tags/envigor/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/health-stuff/</loc>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/tags/meds/</loc>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo/cooroora/tags/post/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/tags/silverchair/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo/cooroora/tags/</loc>
-    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/tags/agreement/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/tags/envigor/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/tags/kirsten/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/tags/silverchair/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/hugo/cooroora/posts/silverchain-release-mum/</loc>
+    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -54,11 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/hugo/cooroora/posts/silverchain-investigation/</loc>
     <lastmod>2026-06-17T19:20:03+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/daz-stuff/</loc>
-    <lastmod>2026-06-16T06:12:48+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -168,11 +188,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/hugo/cooroora/posts/19jan26/</loc>
-    <lastmod>2026-01-19T13:45:37+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/hugo/cooroora/tags/kirsten/</loc>
     <lastmod>2026-01-19T13:45:37+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

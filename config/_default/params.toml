@@ -21,7 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "kellen-riggin-ZHnTWmiz000-unsplash.jpg"
+defaultBackgroundImage = "fancy-pantsjpg"
 
 [header]
 layout = "fixed-fill-blur"

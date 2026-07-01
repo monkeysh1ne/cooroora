@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cooroora - whats happening.</title>
+    <title>Tags on Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
     <link>http://localhost:1313/hugo/cooroora/tags/</link>
-    <description>Recent content in Tags on Cooroora - whats happening.</description>
+    <description>Recent content in Tags on Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:05:12 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo/cooroora/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meds</title>
+      <link>http://localhost:1313/hugo/cooroora/tags/meds/</link>
+      <pubDate>Wed, 01 Jul 2026 17:05:12 +1000</pubDate>
+      <guid>http://localhost:1313/hugo/cooroora/tags/meds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/hugo/cooroora/tags/post/</link>
+      <pubDate>Wed, 01 Jul 2026 17:05:12 +1000</pubDate>
+      <guid>http://localhost:1313/hugo/cooroora/tags/post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agreement</title>
       <link>http://localhost:1313/hugo/cooroora/tags/agreement/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
       <guid>http://localhost:1313/hugo/cooroora/tags/agreement/</guid>
       <description></description>
     </item>
     <item>
       <title>Envigor</title>
       <link>http://localhost:1313/hugo/cooroora/tags/envigor/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
       <guid>http://localhost:1313/hugo/cooroora/tags/envigor/</guid>
       <description></description>
     </item>
     <item>
-      <title>Post</title>
-      <link>http://localhost:1313/hugo/cooroora/tags/post/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo/cooroora/tags/post/</guid>
+      <title>Kirsten</title>
+      <link>http://localhost:1313/hugo/cooroora/tags/kirsten/</link>
+      <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
+      <guid>http://localhost:1313/hugo/cooroora/tags/kirsten/</guid>
       <description></description>
     </item>
     <item>
       <title>Silverchair</title>
       <link>http://localhost:1313/hugo/cooroora/tags/silverchair/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
       <guid>http://localhost:1313/hugo/cooroora/tags/silverchair/</guid>
       <description></description>
     </item>
@@ -118,13 +132,6 @@
       <link>http://localhost:1313/hugo/cooroora/tags/joan/</link>
       <pubDate>Tue, 20 Jan 2026 16:57:22 +1000</pubDate>
       <guid>http://localhost:1313/hugo/cooroora/tags/joan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kirsten</title>
-      <link>http://localhost:1313/hugo/cooroora/tags/kirsten/</link>
-      <pubDate>Mon, 19 Jan 2026 13:45:37 +1000</pubDate>
-      <guid>http://localhost:1313/hugo/cooroora/tags/kirsten/</guid>
       <description></description>
     </item>
     <item>
