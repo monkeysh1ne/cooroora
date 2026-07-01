@@ -16,4 +16,11 @@ identifier = "FeIJR88mSH"
 weight = 9_999
 
 [[footer]]
-none = "none"
+  name = "Changelog"
+  pageRef = "changelog"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20
