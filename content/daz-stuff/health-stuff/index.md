@@ -12,6 +12,7 @@ comments: true
 2) Zempreon - primarily used for the relief of bronchospasm in patients with asthma or chronic obstructive pulmonary disease (COPD)
 3) Rosuvastatin - is a statin medication primarily used to lower high cholesterol and prevent cardiovascular disease.
 4) Amlodipine - is a calcium channel blocker primarily used to treat hypertension (high blood pressure) and angina (chest pain).
+5) Ryaltris - a prescription nasal spray containing olopatadine hydrochloride (an antihistamine) and mometasone furoate (a corticosteroid).  It is primarily indicated for the treatment of symptoms associated with seasonal allergic rhinitis (hay fever) and rhinoconjunctivitis.
 
 
 ## Sleep Study Report 19Feb26

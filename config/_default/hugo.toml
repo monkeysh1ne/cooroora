@@ -6,6 +6,8 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 #theme = "hugo-coder"
 baseURL = "https://mahiequalslollies.com/hugo/cooroora/"
 defaultContentLanguage = "en"
+enableInlineShortcodes = true
+
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -75,3 +77,7 @@ style = "github-dark"
 [params]
   colorScheme = "auto"
   hidecolorschemetoggle = false
+  subtitle = 'Tracking health info for Cooroora Rise'
+  [params.contact]
+    email = 'mcdoob@gmail.com'
+    mob = '04-9376-8666'
