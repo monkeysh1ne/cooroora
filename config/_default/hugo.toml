@@ -78,10 +78,3 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
   subtitle = 'Tracking health info for Cooroora Rise'
-  [params.contact]
-    email = 'mcdoob@gmail.com'
-    mob = '04-9376-8666'
-
-outputs:
-- html
-- calendar

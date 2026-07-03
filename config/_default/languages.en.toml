@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
+title = "A Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
 
 [params]
 displayName = "EN"
@@ -14,7 +14,7 @@ description = "A Healthcare and Aged Care blog for Cooroora Rise"
   [params.author]
   name = "Darrell Mayson"
   image = "me-face-peanuts-cartoon.png"
-  headline = "Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
+  headline = "A Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
   links = [
     { twitter = "https://twitter.com/monkeysh1ne"},
     { github = "https://github.com/monkeysh1ne" }
