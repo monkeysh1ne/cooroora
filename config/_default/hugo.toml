@@ -81,3 +81,7 @@ style = "github-dark"
   [params.contact]
     email = 'mcdoob@gmail.com'
     mob = '04-9376-8666'
+
+outputs:
+- html
+- calendar
