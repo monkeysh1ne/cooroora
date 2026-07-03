@@ -22,19 +22,28 @@ comments: true
 ## 3Jul26
 
 #### GP visit summary
-- has made care plan
-  - I can expect a call from Dietition/Nutritionalist Ms Bree White in coming days as well as Physio (no deets given)
+- GP has made care plan
+  - I can expect a call from Dietition, Ms Bree White in coming days as well as Physio (no deets given)
 - have nominated Dr Rahman as my preferred GP
 - GP sent referral to Direct Sleep Clinic Gympie for CPAP
+
+#### Follow up on GP Visit
 - called DSC and have appt to see Tracey tomoz 8am for consult and commence mnth hire of CPAP.
   - $275 all up out of pocket = mnth hire allows for mask swap outs if desired.
   - I will need to download data from CPAP for DSC every 12 mnths for them(?) to provide to Main Roads to show I will not be falling asleep at the wheel and my OSA is being monitored.
   
   >
-  > I can expect a call from Dietition/Nutritionalist Ms Bree White in coming days as well as Physio (no deets given)
+  > I can expect a call from Dietition, Ms Bree White in coming days as well as Physio (no deets given)
   >
 #### Direct Sleep Clinic referral
   {{< embed-pdf url="/files/DirectSleepClinicReferral-030726.pdf" >}}
 
 #### Dietitian Referell Ms Bree White
   {{< embed-pdf url="/files/Dietitian-Referral-030726.pdf" >}}
+
+### Information on MBS[^1] GP Chronic Condition Mgmt Plan
+
+Here is a link to [Services Australia CCMP Info](https://www.servicesaustralia.gov.au/mbs-billing-rules-for-chronic-condition-allied-health-and-other-primary-health-care-items?context=20)
+
+
+[^1]: Medicare Benefits Schedule
