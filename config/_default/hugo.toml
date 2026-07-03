@@ -2,9 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish" # UNCOMMENT THIS LINE
-#theme = "hugo-coder"
-baseURL = "https://mahiequalslollies.com/hugo/cooroora/"
+theme = ["blowfish", "hugo-coder"] # UNCOMMENT THIS LINE
+sbaseURL = "https://mahiequalslollies.com/hugo/cooroora/"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
 
@@ -14,7 +13,7 @@ enableInlineShortcodes = true
 enableRobotsTXT = true
 summaryLength = 0
 
-buildDrafts = false
+buildDrafts = true
 buildFuture = false
 
 enableEmoji = true

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kirsten on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
-    <link>http://localhost:1313/hugo/cooroora/tags/kirsten/</link>
+    <link>http://localhost:1313/cooroora/tags/kirsten/</link>
     <description>Recent content in Kirsten on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2026 11:02:51 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo/cooroora/tags/kirsten/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/cooroora/tags/kirsten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Silverchair Release Mum from AC Agreement</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/silverchain-release-mum/</link>
+      <link>http://localhost:1313/cooroora/posts/silverchain-release-mum/</link>
       <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
-      <guid>http://localhost:1313/hugo/cooroora/posts/silverchain-release-mum/</guid>
+      <guid>http://localhost:1313/cooroora/posts/silverchain-release-mum/</guid>
       <description></description>
     </item>
     <item>
       <title>19Jan26</title>
-      <link>http://localhost:1313/hugo/cooroora/posts/19jan26/</link>
+      <link>http://localhost:1313/cooroora/posts/19jan26/</link>
       <pubDate>Mon, 19 Jan 2026 13:45:37 +1000</pubDate>
-      <guid>http://localhost:1313/hugo/cooroora/posts/19jan26/</guid>
+      <guid>http://localhost:1313/cooroora/posts/19jan26/</guid>
       <description></description>
     </item>
   </channel>

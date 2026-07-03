@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/cooroora/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=cooroora/livereload" data-no-instant defer></script>
+  <title>
+  Publishing Website Workflow · A Healthcare and Aged Care Blog for Cooroora Rise (mostly).
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="map[headline:A Healthcare and Aged Care Blog for Cooroora Rise (mostly). image:me-face-peanuts-cartoon.png links:[map[twitter:https://twitter.com/monkeysh1ne] map[github:https://github.com/monkeysh1ne]] name:Darrell Mayson]">
+<meta name="description" content="A Healthcare and Aged Care blog for Cooroora Rise">
+<meta name="keywords" content="">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Publishing Website Workflow">
+  <meta name="twitter:description" content="A Healthcare and Aged Care blog for Cooroora Rise">
+
+<meta property="og:url" content="http://localhost:1313/cooroora/daz-stuff/publishing-site-workflow/">
+  <meta property="og:site_name" content="A Healthcare and Aged Care Blog for Cooroora Rise (mostly).">
+  <meta property="og:title" content="Publishing Website Workflow">
+  <meta property="og:description" content="A Healthcare and Aged Care blog for Cooroora Rise">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="daz-stuff">
+    <meta property="article:published_time" content="2026-06-16T06:12:48+10:00">
+    <meta property="article:modified_time" content="2026-06-16T06:12:48+10:00">
+    <meta property="article:tag" content="Post">
+    <meta property="article:tag" content="How-To">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/cooroora/daz-stuff/publishing-site-workflow/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/cooroora/css/coder.css" media="screen">
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+<body class="preload-transitions colorscheme-light">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/cooroora/">
+      A Healthcare and Aged Care Blog for Cooroora Rise (mostly).
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/cooroora/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/cooroora/daz-stuff/">Daz-Stuff</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/cooroora/tags/">Tags</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://localhost:1313/cooroora/daz-stuff/publishing-site-workflow/">
+          Publishing Website Workflow
+        </a>
+      </h1>
+    </header>
+
+    <h2 id="how-this-website-is-published-workflow">
+  How this website is published (workflow)
+  <a class="heading-link" href="#how-this-website-is-published-workflow">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ol>
+<li>Updates/changes etc made to website locally.</li>
+<li>Changes committed to GIT and remote repo updated with these.</li>
+<li><a href="https://app.netlify.com/projects/joyful-pie-3d4dfb/overview"  class="external-link" target="_blank" rel="noopener">Netlify</a> rebuilds website using latest GIT commit.</li>
+</ol>
+<div class="mermaid">
+graph LR;
+A[Local Changes]-->B[Git Commit to Local]
+B-->C[Git Commit to Remote]
+C-->D[Netlify Build]
+</div>
+
+<h2 id="embedding-pdfs">
+  Embedding PDFs
+  <a class="heading-link" href="#embedding-pdfs">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<div class="mermaid">
+graph LR;
+A[place PDF in /static/files]-->B[use embed-pdf shortcode in post to place pdf embed]
+</div>
+
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2026
+     map[headline:A Healthcare and Aged Care Blog for Cooroora Rise (mostly). image:me-face-peanuts-cartoon.png links:[map[twitter:https://twitter.com/monkeysh1ne] map[github:https://github.com/monkeysh1ne]] name:Darrell Mayson] 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@11.13.0/dist/mermaid.min.js"
+    integrity="sha256-PiACvzM5B/rnwdaGC7x49dpBe8cLZPPSJoWBuguouWo=" crossorigin="anonymous"></script>
+  <script>
+    mermaid.initialize({startOnLoad: true});
+  </script>
+  
+
+  
+  
+  <script src="/cooroora/js/coder.js"></script>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
