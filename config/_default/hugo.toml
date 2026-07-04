@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = ["blowfish", "hugo-coder"] # UNCOMMENT THIS LINE
+theme = ["blowfish"] # UNCOMMENT THIS LINE
 sbaseURL = "https://mahiequalslollies.com/hugo/cooroora/"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
