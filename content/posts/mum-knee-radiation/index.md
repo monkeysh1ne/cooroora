@@ -12,5 +12,5 @@ Following mum's MRI scan at Cooroy Radiation 5 June(?) Dr.Desh referred mum for 
 
 Dr.Tang explained that this was a relatively new therapy now popular in Germany with some success.  It was with some irony that mum received 2 calls confirming her eligibility for an injection on around the second or third radiation visit.
 
-The treatments we 6 visits across 3 weeks in June/July including 1 x assessment mtg with Dr.Tang and a 90 day follow up yet to be confirmed to asess success of treatment.
+The treatments we 6 visits across 3 weeks in June/July including 1 x assessment mtg with Dr.Tang and a 90 day follow up yet to be confirmed to assess success of treatment.
 

@@ -13,6 +13,7 @@ comments: true
 3) Rosuvastatin - is a statin medication primarily used to lower high cholesterol and prevent cardiovascular disease.
 4) Amlodipine - is a calcium channel blocker primarily used to treat hypertension (high blood pressure) and angina (chest pain).
 5) Ryaltris - a prescription nasal spray containing olopatadine hydrochloride (an antihistamine) and mometasone furoate (a corticosteroid).  It is primarily indicated for the treatment of symptoms associated with seasonal allergic rhinitis (hay fever) and rhinoconjunctivitis.
+6) Caruso's Super Magnesium Glycinate (equiv to Magnesium 160mg/tab.) - Magnesium glycinate is primarily used to support sleep quality, reduce stress and anxiety, and ease muscle tension or cramps.
 
 
 ## Sleep Study Report 19Feb26

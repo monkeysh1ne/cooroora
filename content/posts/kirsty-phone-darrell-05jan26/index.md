@@ -3,7 +3,7 @@ title: "Kirsty phone call to Darrell 05Jan26."
 date: 2026-01-05
 draft: false
 description: "Kirsty from Silverchain called Darrell 05Jan26 for intro and general chat."
-tags: ["post", "Silverchain", "physio"]
+tags: ["post", "Silverchain", "physio", 'care-provider']
 ---
 ### Initial Kirsty visit to mum.
 

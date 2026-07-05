@@ -2,7 +2,7 @@
 date = '2025-12-16T09:31:31+10:00'
 draft = false
 title = 'Silverchain Audit Visit'
-tags = ['post', 'Silverchain', 'phone', 'scabies', 'Agedcare', 'financial']
+tags = ['post', 'Silverchain', 'phone', 'scabies', 'Agedcare', 'financial','care-provider']
 featured_image = 'cooroora-hero.png'
 +++
 

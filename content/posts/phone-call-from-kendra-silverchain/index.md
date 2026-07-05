@@ -2,7 +2,7 @@
 date = '2025-12-09T09:31:31+10:00'
 draft = false
 title = 'Phone Call From Kendra Silverchain'
-tags = ['post', 'silverchain', 'phone']
+tags = ['post', 'silverchain', 'phone', 'care-provider']
 +++
 
 ![Silverchain logo](silverchain-logo.png)

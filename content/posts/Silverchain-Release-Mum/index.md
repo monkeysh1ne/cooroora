@@ -2,7 +2,7 @@
 title: "Silverchair Release Mum from AC Agreement"
 date: 2026-07-01T11:02:51+10:00
 draft: false
-tags: ["post", "Silverchair", "Envigor", "Agreement", "Kirsten"]
+tags: ["post", "Silverchair", "Agreement", "Kirsten", 'care-provider']
 comments: true
 ---
 
