@@ -52,5 +52,16 @@ The following was supplied at my request 10Jul26 as I was not consulted on nor p
 
   {{< embed-pdf url="/files/GP-CHRONIC-CONDITION-MANAGEMENT-PLAN-030726.pdf" >}}
 
+In Queensland, the prescribed approach to weight reduction for chronic obesity follows a multidisciplinary, stepped-care model that prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.  Management is tailored to individual BMI and comorbidities, with Queensland Health providing specific clinical practice guidelines for community pharmacy and specialist referral pathways.
+
+>
+> ![WARNING] "..prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.."
+>
+
+
+#### Queensland community pharmacy clinical practical guideline weight obesity mgmt.
+
+{{< embed-pdf url="overweight-obesity-management-guideline-QLD-HEALTH.pdf" >}}
+
 
 [^1]: Medicare Benefits Schedule
