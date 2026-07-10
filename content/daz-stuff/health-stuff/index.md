@@ -61,7 +61,7 @@ In Queensland, the prescribed approach to weight reduction for chronic obesity f
 
 #### Queensland community pharmacy clinical practical guideline weight obesity mgmt.
 
-{{< embed-pdf url="overweight-obesity-management-guideline-QLD-HEALTH.pdf" >}}
+{{< embed-pdf url="/files/overweight-obesity-management-guideline-QLD-HEALTH.pdf" >}}
 
 
 [^1]: Medicare Benefits Schedule
