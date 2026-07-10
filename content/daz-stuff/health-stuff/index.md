@@ -2,7 +2,7 @@
 date: '2026-07-01T17:05:12+10:00'
 draft: false
 title: 'Health Stuff'
-tags: ['post', 'meds']
+tags: ['post', 'meds', 'QLD Health', 'sleep']
 comments: true
 ---
 
@@ -55,7 +55,7 @@ The following was supplied at my request 10Jul26 as I was not consulted on nor p
 In Queensland, the prescribed approach to weight reduction for chronic obesity follows a multidisciplinary, stepped-care model that prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.  Management is tailored to individual BMI and comorbidities, with Queensland Health providing specific clinical practice guidelines for community pharmacy and specialist referral pathways.
 
 >
-> ![WARNING] "..prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.."
+> [!WARNING] "..prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.."
 >
 
 #### Queensland community pharmacy clinical practical guideline weight obesity mgmt.
