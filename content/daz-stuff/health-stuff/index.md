@@ -50,7 +50,7 @@ Here is a link to [Services Australia CCMP Info](https://www.servicesaustralia.g
 
 The following was supplied at my request 10Jul26 as I was not consulted on nor provided with a copy of this by my new GP.
 
-  {{< embed-pdf url="/files/"GP-CHRONIC-CONDITION-MANAGEMENT-PLAN-030726.pdf" >}}
+  {{< embed-pdf url="/files/GP-CHRONIC-CONDITION-MANAGEMENT-PLAN-030726.pdf" >}}
 
 
 [^1]: Medicare Benefits Schedule
