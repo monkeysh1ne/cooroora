@@ -58,10 +58,12 @@ In Queensland, the prescribed approach to weight reduction for chronic obesity f
 > ![WARNING] "..prioritizes lifestyle modification as the foundation, escalating to pharmacotherapy and bariatric surgery for complex cases.."
 >
 
-
 #### Queensland community pharmacy clinical practical guideline weight obesity mgmt.
 
 {{< embed-pdf url="/files/overweight-obesity-management-guideline-QLD-HEALTH.pdf" >}}
 
+#### AUSTRALIAN OBESITY MANAGEMENT ALGORITHM
+
+{{< embed-pdf url="/files/20220902 Diagram - Australian Obesity Management Algorithm 2022 .pdf" >}}
 
 [^1]: Medicare Benefits Schedule
