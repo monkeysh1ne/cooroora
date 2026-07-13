@@ -66,4 +66,21 @@ In Queensland, the prescribed approach to weight reduction for chronic obesity f
 
 {{< embed-pdf url="/files/20220902 Diagram - Australian Obesity Management Algorithm 2022 .pdf" >}}
 
+#### Dietition Goals
+
+- Clear goals with measurable and timely details (e.g., loose 15kg in 12 weeks)
+- Meal plan
+- Simple, actionable advice for selecting food.
+- Tips for quick wins (e.g., no coffeee after 12 noon, hydrate regularly ..).
+- How to maintain energy/avoid fatigue.
+- Foods to help sleep.
+- Foods for treats (e.g., peanut butter protein balls)
+- How to loose weight effectively without cravings or bounce-back.
+- Advice on how my body will respond in the coming weeks.
+
+#### Bloods Results (Pathology Report 11/6/26)
+
+{{< embed-pdf url="/files/110626-pathology-results.pdf" >}}
+
+
 [^1]: Medicare Benefits Schedule
