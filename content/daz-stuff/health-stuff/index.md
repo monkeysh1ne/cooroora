@@ -77,6 +77,7 @@ In Queensland, the prescribed approach to weight reduction for chronic obesity f
 - Foods for treats (e.g., peanut butter protein balls)
 - How to loose weight effectively without cravings or bounce-back.
 - Advice on how my body will respond in the coming weeks.
+- make some wholemeal bread.
 
 #### Bloods Results (Pathology Report 11/6/26)
 
