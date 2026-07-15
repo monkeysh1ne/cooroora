@@ -6,7 +6,7 @@ theme = ["blowfish"] # UNCOMMENT THIS LINE
 sbaseURL = "https://mahiequalslollies.com/hugo/cooroora/"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
-
+publishDir = "public"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
