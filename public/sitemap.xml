@@ -3,11 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/cooroora/</loc>
-    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/icon/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/knee/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/posts/mum-knee-radiation/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/post/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/posts/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/radiation/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/</loc>
+    <lastmod>2026-07-05T06:37:37+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/cooroora/daz-stuff/</loc>
+    <lastmod>2026-07-01T17:05:12+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/dietition/</loc>
     <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -22,12 +62,12 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cooroora/tags/post/</loc>
+    <loc>http://localhost:1313/cooroora/tags/qld-health/</loc>
     <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cooroora/tags/</loc>
+    <loc>http://localhost:1313/cooroora/tags/sleep/</loc>
     <lastmod>2026-07-01T17:05:12+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -37,17 +77,12 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cooroora/tags/envigor/</loc>
+    <loc>http://localhost:1313/cooroora/tags/care-provider/</loc>
     <lastmod>2026-07-01T11:02:51+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/cooroora/tags/kirsten/</loc>
-    <lastmod>2026-07-01T11:02:51+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cooroora/posts/</loc>
     <lastmod>2026-07-01T11:02:51+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -59,6 +94,11 @@
   </url><url>
     <loc>http://localhost:1313/cooroora/posts/silverchain-release-mum/</loc>
     <lastmod>2026-07-01T11:02:51+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/tags/envigor/</loc>
+    <lastmod>2026-06-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -102,23 +142,8 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cooroora/tags/knee/</loc>
-    <lastmod>2026-06-15T15:10:03+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cooroora/tags/radiation/</loc>
-    <lastmod>2026-06-15T15:10:03+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/cooroora/posts/icon-cancer-centre-referral/</loc>
     <lastmod>2026-06-15T05:30:03+10:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/cooroora/tags/care-provider/</loc>
-    <lastmod>2026-06-11T13:41:24+10:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -374,6 +399,10 @@
   </url><url>
     <loc>http://localhost:1313/cooroora/posts/phone-call-from-kendra-silverchain/</loc>
     <lastmod>2025-12-09T09:31:31+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/cooroora/readme/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>

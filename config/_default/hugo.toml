@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = ["blowfish"] # UNCOMMENT THIS LINE
-sbaseURL = "https://mahiequalslollies.com/hugo/cooroora/"
+baseURL = "https://monkeysh1ne.github.io/cooroora/"
 defaultContentLanguage = "en"
 enableInlineShortcodes = true
 publishDir = "public"
