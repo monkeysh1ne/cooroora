@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nambour Community Health on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
+    <link>http://localhost:1313/cooroora/tags/nambour-community-health/</link>
+    <description>Recent content in Nambour Community Health on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Feb 2026 05:22:26 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/cooroora/tags/nambour-community-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ryan Gee Visit</title>
+      <link>http://localhost:1313/cooroora/posts/ryan-gee-visit/</link>
+      <pubDate>Tue, 24 Feb 2026 05:22:26 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/ryan-gee-visit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nambour Community Health &amp; Kirsty Catchup</title>
+      <link>http://localhost:1313/cooroora/posts/nambour-community-health/</link>
+      <pubDate>Tue, 20 Jan 2026 16:57:22 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/nambour-community-health/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

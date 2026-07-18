@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
-    <link>http://localhost:1313/cooroora/series/</link>
+    <link>https://monkeysh1ne.github.io/cooroora/series/</link>
     <description>Recent content in Series on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/cooroora/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://monkeysh1ne.github.io/cooroora/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

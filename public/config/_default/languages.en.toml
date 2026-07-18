@@ -1,0 +1,22 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "A Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "A Healthcare and Aged Care blog for Cooroora Rise"
+
+  [params.author]
+  name = "Darrell Mayson"
+  image = "me-face-peanuts-cartoon.png"
+  headline = "A Healthcare and Aged Care Blog for Cooroora Rise (mostly)."
+  links = [
+    { twitter = "https://twitter.com/monkeysh1ne"},
+    { github = "https://github.com/monkeysh1ne" }
+    ]
+  

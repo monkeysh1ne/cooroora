@@ -1,0 +1,8 @@
+baseURL = 'https://mahiequalslollies.com/cooroora/'
+languageCode = 'en'
+defaultcontentlanguage = "en"
+title = 'Cooroora Blog'
+#theme = ["hugo-embed-pdf-shortcode"]
+enableInlineShortcodes = true
+
+

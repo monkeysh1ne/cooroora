@@ -1,0 +1,26 @@
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+identifier = "vilQkYfmco"
+weight = 9_999
+
+[[main]]
+name = "Daz-Stuff"
+pageRef = "daz-stuff"
+identifier = "FeIJR88mSH"
+weight = 9_999
+
+[[footer]]
+  name = "Changelog"
+  pageRef = "changelog"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

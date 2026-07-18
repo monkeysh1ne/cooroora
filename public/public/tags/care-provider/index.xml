@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Care-Provider on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
+    <link>http://localhost:1313/cooroora/tags/care-provider/</link>
+    <description>Recent content in Care-Provider on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2026 11:02:51 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/cooroora/tags/care-provider/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silverchair Release Mum from AC Agreement</title>
+      <link>http://localhost:1313/cooroora/posts/silverchain-release-mum/</link>
+      <pubDate>Wed, 01 Jul 2026 11:02:51 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/silverchain-release-mum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silverchain Investigate</title>
+      <link>http://localhost:1313/cooroora/posts/silverchain-investigation/</link>
+      <pubDate>Wed, 17 Jun 2026 19:20:03 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/silverchain-investigation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mark Envigor Introduction</title>
+      <link>http://localhost:1313/cooroora/posts/mark-envigor-introduction/</link>
+      <pubDate>Thu, 11 Jun 2026 13:41:24 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/mark-envigor-introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kirsty phone call to Darrell 05Jan26.</title>
+      <link>http://localhost:1313/cooroora/posts/kirsty-phone-darrell-05jan26/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/kirsty-phone-darrell-05jan26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silverchain Audit Visit</title>
+      <link>http://localhost:1313/cooroora/posts/silverchain-audit-call-silverchain/</link>
+      <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/silverchain-audit-call-silverchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phone Call From Kendra Silverchain</title>
+      <link>http://localhost:1313/cooroora/posts/phone-call-from-kendra-silverchain/</link>
+      <pubDate>Tue, 09 Dec 2025 09:31:31 +1000</pubDate>
+      <guid>http://localhost:1313/cooroora/posts/phone-call-from-kendra-silverchain/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

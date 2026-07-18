@@ -1,0 +1,131 @@
+colorScheme = "one-light"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableA11y = false
+enableSearch = true
+enableCodeCopy = false
+enableStructuredBreadcrumbs = false
+replyByEmail = false
+disableImageOptimization = false
+disableImageOptimizationMD = false
+disableTextInHeader = false
+hotlinkFeatureImage = false
+fingerprintAlgorithm = "sha512"
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v11.next.forgejo.org"
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
+rssnext = { }
+advertisement = { }
+defaultBackgroundImage = "rocky-peaks-night-sky-BG.jpg"
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "profile"
+showRecent = false
+showRecentItems = 5
+showMoreLink = false
+showMoreLinkDest = "/posts/"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+disableHeroImageFilter = false
+homepageImage = "rocky-peaks-night-sky-BG.jpg"
+
+[article]
+showComments = true
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = true
+showHero = false
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showCategoryOnly = false
+showAuthorsBadges = false
+showWordCount = false
+showZenMode = true
+showRelatedContent = false
+
+[list]
+showHero = true
+layoutBackgroundBlur = false
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showSummary = true
+showViews = false
+showLikes = false
+showTableOfContents = false
+showCards = true
+orderByWeight = false
+groupByYear = true
+cardView = true
+cardViewScreenWidth = true
+constrainItemsWidth = false
+heroStyle = "thumbAndBackground"
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = true
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+cardView = true
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[comments]
+enabled = true
+provider = "giscus"
+
+  [comments.giscus]
+  repo = "monkeysh1ne/cooroora"
+  repoID = "R_kgDOQyLELA"
+  category = "Announcements"
+  categoryID = "DIC_kwDOQyLELM4C0stj"
+  mapping = "pathname"
+  strict = false
+  reactionsEnabled = true
+  emitMetadata = false
+  inputPosition = "top"
+  theme = "preferred_color_scheme"
+  lang = "en"
+  crossorigin = "anonymous"

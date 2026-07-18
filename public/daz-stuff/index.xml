@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
-    <link>http://localhost:1313/cooroora/daz-stuff/</link>
+    <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/</link>
     <description>Recent content on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2026 17:05:12 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cooroora/daz-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://monkeysh1ne.github.io/cooroora/daz-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health Stuff</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/health-stuff/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/health-stuff/</link>
       <pubDate>Wed, 01 Jul 2026 17:05:12 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/health-stuff/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/health-stuff/</guid>
       <description></description>
     </item>
     <item>
       <title>Publishing Website Workflow</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/publishing-site-workflow/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/publishing-site-workflow/</link>
       <pubDate>Tue, 16 Jun 2026 06:12:48 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/publishing-site-workflow/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/publishing-site-workflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Random Stuff</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/random-stuff/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/random-stuff/</link>
       <pubDate>Thu, 29 Jan 2026 14:17:58 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/random-stuff/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/random-stuff/</guid>
       <description></description>
     </item>
     <item>
       <title>Carpet Bed Spray</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/carpet-bed-spray/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/carpet-bed-spray/</link>
       <pubDate>Wed, 21 Jan 2026 15:26:48 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/carpet-bed-spray/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/carpet-bed-spray/</guid>
       <description></description>
     </item>
     <item>
       <title>Retirement Caravan Options</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/retirement-caravan-options/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/retirement-caravan-options/</link>
       <pubDate>Sun, 04 Jan 2026 18:07:18 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/retirement-caravan-options/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/retirement-caravan-options/</guid>
       <description></description>
     </item>
     <item>
       <title>Anchovy and Garlic Crostini</title>
-      <link>http://localhost:1313/cooroora/daz-stuff/anchovy-and-garlic-crostini/</link>
+      <link>https://monkeysh1ne.github.io/cooroora/daz-stuff/anchovy-and-garlic-crostini/</link>
       <pubDate>Sun, 21 Dec 2025 06:37:00 +1000</pubDate>
-      <guid>http://localhost:1313/cooroora/daz-stuff/anchovy-and-garlic-crostini/</guid>
+      <guid>https://monkeysh1ne.github.io/cooroora/daz-stuff/anchovy-and-garlic-crostini/</guid>
       <description></description>
     </item>
   </channel>
