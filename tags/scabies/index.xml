@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scabies on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
+    <link>https://monkeysh1ne.github.io/cooroora/tags/scabies/</link>
+    <description>Recent content in Scabies on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jan 2026 13:45:37 +1000</lastBuildDate>
+    <atom:link href="https://monkeysh1ne.github.io/cooroora/tags/scabies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>19Jan26</title>
+      <link>https://monkeysh1ne.github.io/cooroora/posts/19jan26/</link>
+      <pubDate>Mon, 19 Jan 2026 13:45:37 +1000</pubDate>
+      <guid>https://monkeysh1ne.github.io/cooroora/posts/19jan26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ana Physio Visit</title>
+      <link>https://monkeysh1ne.github.io/cooroora/posts/anna-physio-visit/</link>
+      <pubDate>Fri, 02 Jan 2026 16:19:00 +1000</pubDate>
+      <guid>https://monkeysh1ne.github.io/cooroora/posts/anna-physio-visit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silverchain Audit Visit</title>
+      <link>https://monkeysh1ne.github.io/cooroora/posts/silverchain-audit-call-silverchain/</link>
+      <pubDate>Tue, 16 Dec 2025 09:31:31 +1000</pubDate>
+      <guid>https://monkeysh1ne.github.io/cooroora/posts/silverchain-audit-call-silverchain/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
