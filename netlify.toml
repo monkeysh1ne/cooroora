@@ -1,6 +1,7 @@
 # netlify.toml
 
 [build]
+  ignore = "git diff --quiet $COMMIT_REF ../.. && git diff --quiet HEAD HEAD~1 -- exampleSite"
   command = "hugo mod get -u && hugo --gc --minify -b $URL"
   publish = "public"
 
