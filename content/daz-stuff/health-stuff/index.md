@@ -84,4 +84,57 @@ In Queensland, the prescribed approach to weight reduction for chronic obesity f
 {{< embed-pdf url="/files/110626-pathology-results.pdf" >}}
 
 
+# The following routine was produced by ClaudeAI.
+# Daily Stretch Routine — Neck, Shoulder & Lower Back Relief
+
+**For:** desk/driving-heavy days
+**Total time:** ~10 minutes
+**Notes:** Breathe normally throughout — never hold your breath. Stop any stretch that causes sharp pain, dizziness, or unusual breathlessness. Ease into every stretch; go to mild tension, not pain.
+
+---
+
+## Quick Break Routine (do every 60–90 min while driving/sitting) — 2 min
+
+Can be done seated in the driver's seat at a stop, or standing at home.
+
+1. **Chin tucks** — 10 reps, hold 5 sec each
+2. **Shoulder rolls** — 10 forward, 10 back
+3. **Seated cat-cow** — 8–10 slow reps
+
+---
+
+## Full Daily Routine — ~10 min
+
+### 1. Neck (2–3 min)
+| Stretch | How | Dosage |
+|---|---|---|
+| Chin tucks | Sitting tall, draw chin straight back (double chin) | 10 reps, hold 5 sec |
+| Side neck stretch | Tilt ear toward shoulder, feel stretch on opposite side | 20–30 sec each side |
+| Upper trap stretch | Same as above + gentle hand pull on head (optional) | 20–30 sec each side |
+
+### 2. Shoulders (2–3 min)
+| Stretch | How | Dosage |
+|---|---|---|
+| Shoulder rolls | Big slow circles | 10 forward, 10 back |
+| Shoulder blade squeezes | Pull blades back/down like tucking into back pockets | 10 reps, hold 5 sec |
+| Doorway/wall pec stretch | Forearm on doorframe, elbow at shoulder height, lean forward gently | 20–30 sec each side |
+
+### 3. Lower Back (4–5 min)
+| Stretch | How | Dosage |
+|---|---|---|
+| Seated cat-cow | Hands on knees, alternate arching and rounding back | 8–10 reps |
+| Knee-to-chest (lying down) | Pull one knee to chest | 20–30 sec each side |
+| Seated figure-four | Ankle over opposite knee, lean forward gently | 20–30 sec each side |
+| Hip flexor stretch | Kneel on one knee (cushion under it), push hips forward gently | 20–30 sec each side |
+
+---
+
+## Tips for Your Situation
+- **Every 60–90 min of driving:** stop, stand, and run through the Quick Break Routine.
+- **COPD:** avoid stretches that compress the chest or require breath-holding — everything above is breathing-friendly.
+- **Joint-friendly:** all stretches here are low-impact. When ready to add more general activity, short frequent walks are usually the easiest starting point on joints and lungs.
+- **Consistency > intensity:** doing a little daily beats doing a lot occasionally.
+
+*Check with your GP or a physiotherapist before starting, especially if you haven't been cleared for exercise recently.*
+
 [^1]: Medicare Benefits Schedule
