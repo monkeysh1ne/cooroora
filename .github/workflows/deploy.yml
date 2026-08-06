@@ -2,7 +2,7 @@ name: Publish to GH Pages
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
 
       - name: Checkout destination
         uses: actions/checkout@v3
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         with:
           ref: gh-pages
           path: built-site
@@ -29,12 +29,12 @@ jobs:
         run: ${RUNNER_TEMP}/hugo
 
       - name: Deploy
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git config user.name 'monkeysh1ne'
-          git config user.email 'mcdoob@gmail.com'
+          git config user.name 'dhij'
+          git config user.email 'davidhwang.ij@gmail.com'
           git commit -m 'Updated site'
           git push
