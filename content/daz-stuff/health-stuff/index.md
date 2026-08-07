@@ -137,4 +137,15 @@ Can be done seated in the driver's seat at a stop, or standing at home.
 
 *Check with your GP or a physiotherapist before starting, especially if you haven't been cleared for exercise recently.*
 
+# Queensland Transport forms and actions needed - OSA
+
+[QLD Transport advice on driving with medical condition.](https://www.qld.gov.au/transport/licensing/healthy-to-drive/can-i-drive/medical-assessment)
+
+#### Blank Aus Trsp Medical Cert.
+{{< embed-pdf url="/files/Medical Certificate for Driver License-f3712_cfd.pdf" >}}
+
+#### Patient Completed Aus Trsp Medical Cert.
+{{< embed-pdf url="/files/Medical Certificate for Driver License-COMPLETED-f3712_cfd.pdf" >}}
+
+
 [^1]: Medicare Benefits Schedule
