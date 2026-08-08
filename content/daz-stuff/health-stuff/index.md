@@ -147,8 +147,5 @@ Can be done seated in the driver's seat at a stop, or standing at home.
 #### Patient Completed Aus Trsp Medical Cert.
 {{< embed-pdf url="/files/Medical Certificate for Driver License-COMPLETED-f3712_cfd.pdf" >}}
 
-#### Patient Completed Private & Commercial Vehicle Drivers Health Assessment
-{{< embed-pdf url="/files/Private and Commercial Vehicle Drivers Health Asessment-COMPLETED-f3195_cfd.pdf" >}}
-
 
 [^1]: Medicare Benefits Schedule
