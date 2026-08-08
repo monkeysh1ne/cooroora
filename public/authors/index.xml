@@ -4,8 +4,10 @@
     <title>Authors on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
     <link>http://localhost:1313/cooroora/authors/</link>
     <description>Recent content in Authors on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2026 Darrell Mayson</copyright>
     <atom:link href="http://localhost:1313/cooroora/authors/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

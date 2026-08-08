@@ -4,23 +4,30 @@
     <title>MoW on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</title>
     <link>http://localhost:1313/cooroora/tags/mow/</link>
     <description>Recent content in MoW on A Healthcare and Aged Care Blog for Cooroora Rise (mostly).</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Dec 2025 14:41:04 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/cooroora/tags/mow/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Darrell Mayson</copyright>
+    <lastBuildDate>Thu, 25 Dec 2025 14:41:04 +1000</lastBuildDate><atom:link href="http://localhost:1313/cooroora/tags/mow/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Mum Disinfects Bed</title>
       <link>http://localhost:1313/cooroora/posts/mum-disinfects-bed/</link>
       <pubDate>Thu, 25 Dec 2025 14:41:04 +1000</pubDate>
+      
       <guid>http://localhost:1313/cooroora/posts/mum-disinfects-bed/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/cooroora/posts/mum-disinfects-bed/feature-disinfectant-spray-botle-750ml.jpg" />
     </item>
+    
     <item>
       <title>Mammas Got a New Bed</title>
       <link>http://localhost:1313/cooroora/posts/mammas-got-a-new-bed/</link>
       <pubDate>Mon, 22 Dec 2025 15:56:22 +1000</pubDate>
+      
       <guid>http://localhost:1313/cooroora/posts/mammas-got-a-new-bed/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/cooroora/posts/mammas-got-a-new-bed/feature-alivio-jannali-bed.png" />
     </item>
+    
   </channel>
 </rss>
