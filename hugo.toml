@@ -1,5 +1,5 @@
 baseURL = 'https://mahiequalslollies.com/cooroora/'
-languageCode = 'en'
+locale = 'en'
 defaultcontentlanguage = "en"
 title = 'Cooroora Blog'
 theme = ["hugo-embed-pdf-shortcode", "blowfish"]
